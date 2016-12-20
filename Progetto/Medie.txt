@@ -1,0 +1,16 @@
+Cino 3.18
+Dino 7.5
+Gino 9.5
+Leo 9.0
+Lino 3.5
+Meni 5.4
+Meo 5.5
+Mino 9.0
+Neo 6.5
+Nino 1.0
+Pino 5.38
+Rino 7.0
+Teo 5.0
+Tino 9.0
+Toni 4.0
+Vino 7.0
